@@ -12,8 +12,8 @@
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Kongit Technologies</name>
-		<url>http://kongittechnologies.com/</url>
+		<name>Landmark Technologies</name>
+		<url>http://landmarktechnologies.com/</url>
 	</organization>
 
 	<properties>
@@ -96,13 +96,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Kongit Technologies Releases Nexus Repository</name>
+	      <name>Landmark Technologies Releases Nexus Repository</name>
 	      <url>http://52.87.155.212:8081/repository/Paypal-release/<url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Kongit Technologies Snapshot Nexus Repository</name>
+	      <name>Landmark Technologies Snapshot Nexus Repository</name>
 	      <url>http://52.87.155.212:8081/repository/paypal-snapshot/</url>
 	    </snapshotRepository>
 	    
