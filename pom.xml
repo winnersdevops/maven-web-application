@@ -109,7 +109,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>irleandbank-app</finalName>
+		<finalName>Revolut-app</finalName>
 		
 		<plugins>
 			<plugin>
