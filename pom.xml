@@ -109,7 +109,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>Revolut-app</finalName>
+		<finalName>paypal-prod</finalName>
 		
 		<plugins>
 			<plugin>
